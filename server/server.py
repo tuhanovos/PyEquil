@@ -9,7 +9,7 @@ class MyClass(object):
     classdocs
     '''
     def __init__(self):
-        MyClass.message = 'Hello'
+        MyClass.message = 'Hello2'
         print(id(self))
     
     @classmethod
