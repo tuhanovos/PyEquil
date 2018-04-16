@@ -6,7 +6,8 @@ Created on 9 апр. 2018 г.
 from server.server import MyClass
 
 if __name__ == '__main__':
-    m = MyClass('Hello')
+    m = MyClass()
     m.construct()
-            
+    m1 = MyClass()
+    m1.construct()    
             
