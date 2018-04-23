@@ -3,6 +3,7 @@ Created on 17 апр. 2018 г.
 
 @author: eq
 '''
+#a = [8, 4, 6, 2, 6, 4, 7, 9, 5, 8]
 
 def firstDuplicate(a):
     result = a.__iter__()
